@@ -31,6 +31,7 @@ A back-end Web Developer 👨‍💻🚀
         height="60"
       />
     </a>
+    <br>
     <a href="https://www.django-rest-framework.org" target="_blank">
       <img
         style="margin: 10px"
@@ -66,6 +67,7 @@ A back-end Web Developer 👨‍💻🚀
           height="50"
         />
       </a>
+      <br>
       <a href="https://github.com/" target="_blank">
         <img
           style="margin: 10px"
