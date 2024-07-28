@@ -1,6 +1,6 @@
 <h2>Intro</h2>
 
-<img src="./images/Search engines.gif" alt="Ilustração de um Computador e Café" min-width="10%" max-width="20%" width="20%" align="right">
+<img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
 
 <img src="https://img.shields.io/static/v1?label=&message=I'm Kauã Cavalcante&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
@@ -61,7 +61,7 @@ A back-end Web Developer 👨‍💻🚀
     <a href="https://www.postgresql.org/" target="_blank">
       <img
         style="margin: 10px"
-        src="./assets/backend/postgresql.svg"
+        src="./assets/backend/postgresql-light.svg"
         alt="PostgreSQL"
         height="50"
       />
