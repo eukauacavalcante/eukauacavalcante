@@ -1,6 +1,6 @@
 <h2>Intro</h2>
 
-<img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
+<img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="25%" max-width="25%" width="25%" align="right">
 
 <img src="https://img.shields.io/static/v1?label=&message=I'm Kauã Cavalcante&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
@@ -34,7 +34,7 @@ A back-end Web Developer 👨‍💻🚀
     <a href="https://www.django-rest-framework.org" target="_blank">
       <img
         style="margin: 10px"
-        src="./assets/backend/django-rest.svg"
+        src="./assets/backend/django-rest-light.svg"
         alt="Django Rest Framework"
         height="60"
       />
