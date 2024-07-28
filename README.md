@@ -13,25 +13,6 @@ A back-end Web Developer 👨‍💻🚀
 <h2>My Skill Set</h2>
 <table width="100%">
   <tr>
-    <td align="left">
-      <h3>DevOps</h3>
-      <a href="https://git-scm.com" target="_blank">
-        <img
-          style="margin: 10px"
-          src="./assets/devops/git-scm.svg"
-          alt="Git"
-          height="50"
-        />
-      </a>
-      <a href="https://github.com/" target="_blank">
-        <img
-          style="margin: 10px"
-          src="./assets/devops/github-light.svg" alt="GitHub" height="50"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
   <td align="left">
     <h3>Backend</h3>
     <a href="https://www.python.org/" target="_blank">
@@ -68,13 +49,27 @@ A back-end Web Developer 👨‍💻🚀
     </a>
     </td>
     <td align="left">
-      <h3>Tools and Applications</h3>
+      <h3>Workspace</h3>
       <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank">
         <img
           style="margin: 10px"
           src="./assets/tools/vscode.svg"
           alt="VS Code"
           height="50"
+        />
+      </a>
+      <a href="https://git-scm.com" target="_blank">
+        <img
+          style="margin: 10px"
+          src="./assets/devops/git-scm.svg"
+          alt="Git"
+          height="50"
+        />
+      </a>
+      <a href="https://github.com/" target="_blank">
+        <img
+          style="margin: 10px"
+          src="./assets/devops/github-light.svg" alt="GitHub" height="50"
         />
       </a>
       <a href="https://www.postman.com" target="_blank">
