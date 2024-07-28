@@ -1,10 +1,10 @@
 ## Intro
 
-<img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="30%" max-width="30%" width="30%" align="right">
+<img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
 
 <img width="30%" src="https://img.shields.io/static/v1?label=&message=I'm Kauã Cavalcante&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
-#### A back-end Web Developer 👨‍💻 🚀
+#### A Back-end Web Developer 👨‍💻 🚀
 >- 🤔 Exploring new technologies and developing software solutions.
 
 ### Connect with me
