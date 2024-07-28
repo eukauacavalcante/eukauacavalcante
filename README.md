@@ -18,7 +18,7 @@ A back-end Web Developer 👨‍💻🚀
       <a href="https://git-scm.com" target="_blank">
         <img
           style="margin: 10px"
-          src="./assets/cloud_devops/git-scm.svg"
+          src="./assets/devops/git-scm.svg"
           alt="Git"
           height="50"
         />
@@ -26,7 +26,7 @@ A back-end Web Developer 👨‍💻🚀
       <a href="https://github.com/" target="_blank">
         <img
           style="margin: 10px"
-          src="./assets/cloud_devops/github.svg" alt="GitHub" height="50"
+          src="./assets/devops/github.svg" alt="GitHub" height="50"
         />
       </a>
     </td>
@@ -72,7 +72,7 @@ A back-end Web Developer 👨‍💻🚀
       <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank">
         <img
           style="margin: 10px"
-          src="./assets/tools/VSCODE.svg"
+          src="./assets/tools/vscode.svg"
           alt="VS Code"
           height="50"
         />
