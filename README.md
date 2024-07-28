@@ -8,6 +8,16 @@
 >- 🎓 Bachelor in Information Systems from UFRN.
 >- 🤔 Exploring new technologies and developing software solutions.
 
+### Connect with me
+
+<p align="left">
+  <a href="mailto:kauacavalcante.pessoal@gmail.com" title="kauacavalcante.pessoal@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=square&labelColor=FF0000&logo=gmail&logoColor=white&link=kauacavalcante.pessoal@gmail.com" alt="Gmail"/>
+  </a>
+</p>
+
+<br><br>
+
 <table>
   <th align="left">
     <h3>Developer</h3>
