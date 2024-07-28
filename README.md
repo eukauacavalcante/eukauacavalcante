@@ -26,7 +26,7 @@ A back-end Web Developer 👨‍💻🚀
       <a href="https://github.com/" target="_blank">
         <img
           style="margin: 10px"
-          src="./assets/devops/git-scm.svg" alt="GitHub" height="50"
+          src="./assets/devops/github-light.svg" alt="GitHub" height="50"
         />
       </a>
     </td>
