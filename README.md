@@ -14,7 +14,7 @@ A back-end Web Developer 👨‍💻🚀
 <table width="100%">
   <tr>
     <td align="left">
-      <h3>Cloud & DevOps</h3>
+      <h3>DevOps</h3>
       <a href="https://git-scm.com" target="_blank">
         <img
           style="margin: 10px"
@@ -26,7 +26,7 @@ A back-end Web Developer 👨‍💻🚀
       <a href="https://github.com/" target="_blank">
         <img
           style="margin: 10px"
-          src="./assets/devops/github.svg" alt="GitHub" height="50"
+          src="./assets/devops/git-scm.svg" alt="GitHub" height="50"
         />
       </a>
     </td>
