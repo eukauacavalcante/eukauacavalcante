@@ -94,7 +94,7 @@ A back-end Web Developer 👨‍💻🚀
   <br>
   <img
     width="38%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=willamylp&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauacavalcante24&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="Github Stats"
   />
 </div>
