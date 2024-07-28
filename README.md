@@ -1,6 +1,6 @@
 <h2>Intro</h2>
 
-<img src="./images/Search engines.gif" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
+<img src="./images/Search engines.gif" alt="Ilustração de um Computador e Café" min-width="10%" max-width="20%" width="20%" align="right">
 
 <img src="https://img.shields.io/static/v1?label=&message=I'm Kauã Cavalcante&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
