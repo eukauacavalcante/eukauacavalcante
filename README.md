@@ -4,7 +4,8 @@
 
 <img width="30%" src="https://img.shields.io/static/v1?label=&message=I'm Kauã Cavalcante&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
-#### A Back-end Web Developer 👨‍💻 🚀
+#### A Back-end Developer 🚀
+>- 👨‍💻 Computer Science Student.
 >- 🤔 Exploring new technologies and developing software solutions.
 
 ### Connect with me
