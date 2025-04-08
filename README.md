@@ -4,7 +4,7 @@
 
 <img width="30%" src="https://img.shields.io/static/v1?label=&message=I'm Kauã Cavalcante&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
-#### A Back-end Developer 🚀
+#### A Student 🚀
 >- 👨‍💻 Computer Science Student.
 >- 🤔 Exploring new technologies and developing software solutions.
 
@@ -31,6 +31,9 @@
       <p align="left">
         <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none">
           <img src="./assets/backend/python.svg" width="40" height="40" alt="Python" />
+        </a>
+        <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer" style="text-decoration: none">
+          <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="40" height="40" alt="Python" />
         </a>
         <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer" style="text-decoration: none">
           <img src="./assets/backend/django.svg" height="50" alt="Python Django" />
