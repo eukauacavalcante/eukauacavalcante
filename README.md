@@ -33,7 +33,7 @@
           <img src="./assets/backend/python.svg" width="40" height="40" alt="Python" />
         </a>
         <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer" style="text-decoration: none">
-          <img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="40" height="40" alt="Python" />
+          <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" width="40" height="40" alt="Java" />
         </a>
         <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer" style="text-decoration: none">
           <img src="./assets/backend/django.svg" height="50" alt="Python Django" />
