@@ -1,9 +1,3 @@
-## Intro
-
-<img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
-
-# Kauã Cavalcante
-
 #### A Student 🚀
 >- 👨‍💻 Computer Science Student.
 >- 🤔 Exploring new technologies and developing software solutions.
