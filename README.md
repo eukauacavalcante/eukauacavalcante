@@ -2,7 +2,7 @@
 
 <img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
 
-<img width="30%" src="https://img.shields.io/static/v1?label=&message=I'm Kauã Cavalcante&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
+# Kauã Cavalcante
 
 #### A Student 🚀
 >- 👨‍💻 Computer Science Student.
