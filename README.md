@@ -1,6 +1,7 @@
 #### A Student 🚀
 >- 👨‍💻 Computer Science Student.
 >- 🤔 Exploring new technologies and developing software solutions.
+>- 👨‍💻 Web sites with Django and APIs REST using Django REST Framework.
 
 ### Connect with me
 
