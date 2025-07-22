@@ -7,7 +7,10 @@
 
 <p align="left">
   <a href="mailto:kauacavalcante.pessoal@gmail.com" title="kauacavalcante.pessoal@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=square&labelColor=FF0000&logo=gmail&logoColor=white&link=kauacavalcante.pessoal@gmail.com" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kauã-cavalcante-406055367" title="LinkedIn" target="_blank" rel="noreferrer" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=square&labelColor=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
