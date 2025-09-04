@@ -1,4 +1,4 @@
-aua#### A Student 🚀
+#### A Student 🚀
 >- 👨‍💻 Systems Analysis and Development student.
 >- 🤔 Exploring new technologies and developing software solutions.
 >- 👨‍💻 Web sites with Django and APIs REST using Django REST Framework.
