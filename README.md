@@ -74,7 +74,7 @@
     </td>
     <td width="50%">
       <p align="center">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauacavalcante24&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=100" alt="Github Stats"/>
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eukauacavalcante&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=100" alt="Github Stats"/>
       </p>
     </td>
   </tr>
