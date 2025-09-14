@@ -1,9 +1,12 @@
-#### A Student 🚀
->- 👨‍💻 Systems Analysis and Development student.
->- 🤔 Exploring new technologies and developing software solutions.
->- 👨‍💻 Web sites with Django and APIs REST using Django REST Framework.
+Um Estudante 🚀
 
-### Connect with me
+> 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
+
+> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+
+> 👨‍💻 Criação de sites com Django e APIs REST utilizando o Django REST Framework.
+
+### Conecte-se comigo
 
 <p align="left">
   <a href="mailto:eukauasilvacavalcante@gmail.com" title="kauacavalcante.pessoal@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none">
@@ -18,10 +21,10 @@
 
 <table>
   <th align="left">
-    <h3>Developer</h3>
+    <h3>Desenvolvedor</h3>
   </th>
   <th align="left">
-    <h3>GitHub Stats</h3>
+    <h3>Status do Github</h3>
   </th>
   <tr>
     <td width="50%">
