@@ -21,7 +21,9 @@ Um Estudante 🚀
 <div align="left">
   <h3>Desenvolvedor</h3>
 
-  <h3>Backend</h3>
+<hr>
+
+  <h2>Backend</h2>
   <p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none">
       <img src="./assets/backend/python.svg" width="40" height="40" alt="Python" />
@@ -48,7 +50,7 @@ Um Estudante 🚀
     </a>⠀
   </p>
 
-  <h3>Workspace</h3>
+  <h2>Workspace</h2>
   <p>
     <a href="https://git-scm.com" target="_blank" rel="noreferrer" style="text-decoration: none">
       <img src="./assets/devops/git-scm.svg" width="40" height="40" alt="Git" />
