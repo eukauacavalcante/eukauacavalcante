@@ -18,16 +18,12 @@ Um Estudante 🚀
 </p>
 
 <br><br>
-
 <table>
   <th align="left">
     <h3>Desenvolvedor</h3>
   </th>
-  <th align="left">
-    <h3>Status do Github</h3>
-  </th>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3>Backend</h3>
       <p align="left">
         <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none">
@@ -74,11 +70,6 @@ Um Estudante 🚀
         </a>
       </p>
       <br><br>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eukauacavalcante&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=100" alt="Github Stats"/>
-      </p>
     </td>
   </tr>
 </table>
