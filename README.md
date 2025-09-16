@@ -19,7 +19,7 @@ Um Estudante 🚀
 
 <br><br>
 <div align="left">
-<h2>Desenvolvedor</h2>
+<h2>Desenvolvedor de Software</h2>
 
   <h4>Backend</h4>
   <p>
