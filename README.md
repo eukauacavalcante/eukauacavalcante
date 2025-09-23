@@ -9,7 +9,7 @@ Um Estudante 🚀
 ### Conecte-se comigo
 
 <p align="left">
-  <a href="mailto:eukauasilvacavalcante@gmail.com" title="kauacavalcante.pessoal@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <a href="mailto:eukauasilvacavalcante@gmail.com" title="eukauasilvacavalcante@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/kauã-cavalcante-406055367" title="LinkedIn" target="_blank" rel="noreferrer" style="text-decoration: none">
