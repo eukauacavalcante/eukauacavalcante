@@ -1,6 +1,6 @@
-Um Estudante 🚀
+<h1>Desenvolvedor de Software 👨‍💻<h1>
 
-> 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
+> 👨‍🎓 Acadêmico de Análise e Desenvolvimento de Sistemas.
 
 > 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
@@ -19,7 +19,7 @@ Um Estudante 🚀
 
 <br><br>
 <div align="left">
-<h2>Desenvolvedor de Software</h2>
+<h2>Tecnologias Utilizadas</h2>
 
   <h4>Backend</h4>
   <p>
