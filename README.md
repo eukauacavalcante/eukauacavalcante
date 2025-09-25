@@ -16,8 +16,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=square&labelColor=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<br><br>
+<br>
 <div align="left">
 <h2>Tecnologias Utilizadas</h2>
 
