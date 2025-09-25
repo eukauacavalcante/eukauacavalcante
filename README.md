@@ -26,11 +26,8 @@ Um Estudante 🚀
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none">
       <img src="./assets/backend/python.svg" width="40" height="40" alt="Python" />
     </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer" style="text-decoration: none">
-      <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" width="40" height="40" alt="Java" />
-    </a>
     <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer" style="text-decoration: none">
-      <img src="./assets/backend/django.svg" height="50" alt="Python Django" />
+      <img src="./assets/backend/django.svg" height="50" alt="Django" />
     </a>⠀
     <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer" style="text-decoration: none">
       <picture>
@@ -38,7 +35,13 @@ Um Estudante 🚀
         <source media="(prefers-color-scheme: light)" srcset="./assets/backend/django-rest-dark.svg">
         <img src="./assets/backend/django-rest-dark.svg" height="40" alt="Django Rest Framework" />
       </picture>
-    </a>⠀
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
+      <img src="./assets/backend/docker.png" height="50" alt="Docker" />
+    </a>
+    <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer" style="text-decoration: none">
+      <img src="./assets/backend/docker-compose.png" height="50" alt="Docker Compose" />
+    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/backend/postgresql-light.svg">
@@ -60,8 +63,8 @@ Um Estudante 🚀
         <img alt="GitHub" src="./assets/devops/github-dark.svg" width="40" height="40" alt="GitHub" />
       </picture>
     </a>
-    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" style="text-decoration: none">
-      <img src="./assets/tools/vscode.svg" width="40" height="40" alt="VSCode" />
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
+      <img src="./assets/backend/docker.png" height="50" alt="Docker Desktop" />
     </a>
     <a href="https://www.postman.com" target="_blank" rel="noreferrer" style="text-decoration: none">
       <img src="./assets/tools/postman.svg" width="40" height="40" alt="Postman" />
