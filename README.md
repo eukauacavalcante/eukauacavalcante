@@ -1,13 +1,33 @@
-<h1 align="center">👨‍💻 Desenvolvedor Full Stack</h1>
+<h1 style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <svg width="420" height="60" viewBox="0 0 420 60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad">
+        <stop offset="0%" stop-color="#6366f1">
+          <animate attributeName="stop-color" values="#6366f1;#22d3ee;#a855f7;#6366f1" dur="4s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#22d3ee">
+          <animate attributeName="stop-color" values="#22d3ee;#a855f7;#6366f1;#22d3ee" dur="4s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-size="32" font-weight="700"
+          fill="url(#grad)"
+          style="font-family: system-ui, -apple-system, BlinkMacSystemFont;">
+      Desenvolvedor Full Stack
+    </text>
+  </svg>
+  <img src="images/computer-illustration.png" width="250" />
+</h1>
 
 <p align="center" style="max-width: 600px; margin: auto;">
   Acadêmico em <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
   Desenvolvimento web com <strong>Django</strong>, <strong>APIs REST</strong> e tecnologias modernas.
 </p>
 
-## Tecnologias
+<h2>Tecnologias</h2>
 
-### 🎨 Frontend
+<h3>Frontend</h2>
 
 <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 14px;">
   <img src="./assets/frontend/html.png" width="50" alt="HTML"/>
@@ -31,7 +51,7 @@
 
 ---
 
-### ⚙️ Backend
+<h3>Backend</h3>
 
 <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 14px;">
   <img src="./assets/backend/python.svg" width="40" alt="Python"/>
@@ -55,7 +75,7 @@
 
 ---
 
-### Ferramentas
+<h3>Ambientes de Desenvolvimento</h3>
 
 <div style="display: flex; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 14px;">
   <img src="./assets/devops/git-scm.svg" width="40" alt="Git"/>
@@ -69,3 +89,14 @@
   <img src="./assets/tools/postman.svg" width="40" alt="Postman"/>
   <img src="./assets/backend/docker.png" height="40" alt="Docker Desktop"/>
 </div>
+
+---
+
+<h2>Entre em contato</h2>
+
+<a href="mailto:eukauasilvacavalcante@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/kauã-cavalcante-406055367" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
