@@ -1,23 +1,21 @@
-<h1 style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <svg width="420" height="60" viewBox="0 0 420 60" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad">
-        <stop offset="0%" stop-color="#6366f1">
-          <animate attributeName="stop-color" values="#6366f1;#22d3ee;#a855f7;#6366f1" dur="4s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#22d3ee">
-          <animate attributeName="stop-color" values="#22d3ee;#a855f7;#6366f1;#22d3ee" dur="4s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-          font-size="32" font-weight="700"
-          fill="url(#grad)"
-          style="font-family: system-ui, -apple-system, BlinkMacSystemFont;">
-      Desenvolvedor Full Stack
-    </text>
-  </svg>
-  <img src="images/computer-illustration.png" width="250" />
+<h1 style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  text-align: center;
+  font-size: clamp(1.8rem, 4vw, 2.4rem);
+  font-weight: 700;
+  line-height: 1.2;
+">
+  <span>Desenvolvedor Full Stack</span>
+
+  <img
+    src="images/computer-illustration.png"
+    alt="Ilustração computador"
+    style="width: min(220px, 70vw); height: auto;"
+  />
 </h1>
 
 <p align="center" style="max-width: 600px; margin: auto;">
