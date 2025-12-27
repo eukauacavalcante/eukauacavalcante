@@ -34,16 +34,15 @@
       JavaScript
     </td>
     <td align="center">
+      <img src="./assets/frontend/tailwind-css.png" width="45"><br>
+      TailwindCSS
+    </td>
+    <td align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/frontend/next-js-light.png">
         <source media="(prefers-color-scheme: light)" srcset="./assets/frontend/next-js-dark.png">
         <img src="./assets/frontend/next-js-dark.png" height="18">
       </picture><br>
-      Next.js
-    </td>
-    <td align="center">
-      <img src="./assets/frontend/tailwind-css.png" width="45"><br>
-      Tailwind
     </td>
   </tr>
 </table>
@@ -74,7 +73,7 @@
     </td>
     <td align="center">
       <img src="./assets/backend/docker-compose.png" height="40"><br>
-      Compose
+      Docker Compose
     </td>
     <td align="center">
       <picture>
@@ -106,10 +105,6 @@
     <td align="center">
       <img src="./assets/tools/postman.svg" width="40"><br>
       Postman
-    </td>
-    <td align="center">
-      <img src="./assets/backend/docker.png" height="40"><br>
-      Docker Desktop
     </td>
   </tr>
 </table>
