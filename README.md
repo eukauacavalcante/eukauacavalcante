@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/kauã-cavalcante-406055367">
   <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://kauacavalcante.vercel.com">
+<a href="https://kauacavalcante.vercel.app">
   <img src="https://img.shields.io/badge/Portfólio-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
 </a>
 
