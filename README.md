@@ -25,19 +25,29 @@
 
 ## Stack Tecnológica
 
-### Frontend
+### Linguagens
+<img
+  src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark"
+  style="cursor: default; pointer-events: none"
+/>
 
-<img src="https://skillicons.dev/icons?i=next,react,js,ts,html,css,tailwind&theme=dark" />
+### Frameworks & Bibliotecas
+<img
+  src="https://skillicons.dev/icons?i=django,fastapi,spring,react,next,astro,tailwind&theme=dark"
+  style="cursor: default; pointer-events: none"
+/>
 
-### Backend & Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,python,java,postgresql,mysql&theme=dark" />
-</p>
+### Bancos de Dados
+<img
+  src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark"
+  style="cursor: default; pointer-events: none"
+/>
 
 ### Workspace & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,docker,linux&theme=dark" />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,docker,linux&theme=dark"
+  style="cursor: default; pointer-events: none"
+/>
 
 <br>
 
