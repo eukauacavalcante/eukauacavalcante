@@ -1,19 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A8A,70:0284C7,100:0F172A&height=200&section=header&text=Kauã%20Cavalcante&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack"/>
+<div style="pointer-events: none;">
+  <img 
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A8A,70:0284C7,100:0F172A&height=200&section=header&text=Kauã%20Cavalcante&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack"
+  />
+</div>
+
 <br>
 
 <a href="https://www.linkedin.com/in/kauã-cavalcante-406055367">
-  <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 <a href="https://kauacavalcante.vercel.app">
-  <img src="https://img.shields.io/badge/Portfólio-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  <img 
+    src="https://img.shields.io/badge/Portfólio-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portfólio"
+  />
 </a>
 
 <br>
 
-<p align="center">
-  <img src="images/computer-illustration.png" width="220" alt="Ilustração computador">
+<p align="center" style="pointer-events: none;">
+  <img
+    src="images/computer-illustration.png"
+    width="220"
+    alt="Ilustração computador"
+  />
 </p>
 
 <p align="center">
@@ -26,28 +42,32 @@
 ## Stack Tecnológica
 
 ### Linguagens
-<img
-  src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark"
-  style="cursor: default; pointer-events: none"
-/>
+<div style="pointer-events: none;">
+  <img
+    src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark"
+  />
+</div>
 
 ### Frameworks & Bibliotecas
-<img
-  src="https://skillicons.dev/icons?i=django,fastapi,spring,react,next,astro,tailwind&theme=dark"
-  style="cursor: default; pointer-events: none"
-/>
+<div style="pointer-events: none;">
+  <img
+    src="https://skillicons.dev/icons?i=django,fastapi,spring,react,next,astro,tailwind&theme=dark"
+  />
+</div>
 
 ### Bancos de Dados
-<img
-  src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark"
-  style="cursor: default; pointer-events: none"
-/>
+<div style="pointer-events: none;">
+  <img
+    src="https://skillicons.dev/icons?i=postgresql,mysql,redis&theme=dark"
+  />
+</div>
 
 ### Workspace & DevOps
-<img
-  src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,docker,linux&theme=dark"
-  style="cursor: default; pointer-events: none"
-/>
+<div style="pointer-events: none;">
+  <img
+    src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,docker,linux&theme=dark"
+  />
+</div>
 
 <br>
 
@@ -62,4 +82,8 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A8A,70:0284C7,100:0F172A&height=120&section=footer"/>
+<div style="pointer-events: none;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A8A,70:0284C7,100:0F172A&height=120&section=footer"
+  />
+</div>
